@@ -1,0 +1,1 @@
+[{"dni":"sqw","nombre":"what","telefono":"afi","correo":"expropiacion"},{"dni":"55555","nombre":"jon","telefono":"maynard","correo":"keynes"},{"dni":"juan","nombre":"ramiro","telefono":"2345423","correo":"ramiro@gmail.com"}]
